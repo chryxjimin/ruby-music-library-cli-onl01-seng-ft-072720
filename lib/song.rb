@@ -9,9 +9,6 @@ class Song
 
    def initialize(name)
       @name = name
-      @artist = artist
-      @genre = genre
-      @new_song = self.name
    end
 
 
